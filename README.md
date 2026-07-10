@@ -16,6 +16,8 @@ Previously built [Excel Report Automation](https://github.com/aanyatrivedi12/exc
   - **Flagged** -> the original messy data with every missing value and duplicate row highlighted, plus a legend
   - **Cleaned** -> the fully processed, analysis-ready dataset
 
+![Flagged sheet preview](flagged-sheet-preview.png)
+
 ## Why this approach
 
 Most cleaning tutorials only show you the "after." This tool keeps the "before" too, so the report doubles as a data quality audit , useful if you ever need to show someone *what* was wrong with a dataset, not just hand them a clean one.
